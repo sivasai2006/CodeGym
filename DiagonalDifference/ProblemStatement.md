@@ -3,7 +3,7 @@ For example, the square matrix  is shown below:<br />
 ` 1 2 3 ` <br />
 ` 4 5 6 ` <br />
 ` 9 8 9 ` <br />
-The left-to-right diagonal => 1 + 5 + 9 = 15. The right to left diagonal = 3 + 5 + 9 = 17. <br />
+The left-to-right diagonal => 1 + 5 + 9 = 15. The right to left diagonal => 3 + 5 + 9 = 17. <br />
 Their absolute difference is |15 - 17| = 2.
 # Function description #
 Complete the diagonalDifference function in the editor below. It must return an integer representing the absolute diagonal difference. <br />
