@@ -6,8 +6,8 @@ For example, the square matrix  is shown below:<br />
 The left-to-right diagonal => 1 + 5 + 9 = 15. The right to left diagonal = 3 + 5 + 9 = 17. <br />
 Their absolute difference is |15 - 17| = 2.
 # Function description #
-Complete the diagonalDifference function in the editor below. It must return an integer representing the absolute diagonal difference.
-diagonalDifference takes the following parameter:<br />
+Complete the diagonalDifference function in the editor below. It must return an integer representing the absolute diagonal difference. <br />
+diagonalDifference takes the following parameter:<br /><br />
 •	arr: an array of integers .
 # Input Format #
 The first line contains a single integer, n, the number of rows and columns in the matrix . 
