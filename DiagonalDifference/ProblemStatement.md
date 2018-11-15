@@ -7,7 +7,7 @@ The left-to-right diagonal => 1 + 5 + 9 = 15. The right to left diagonal = 3 + 5
 Their absolute difference is |15 - 17| = 2.
 # Function description #
 Complete the diagonalDifference function in the editor below. It must return an integer representing the absolute diagonal difference.
-diagonalDifference takes the following parameter:
+diagonalDifference takes the following parameter:<br />
 •	arr: an array of integers .
 # Input Format #
 The first line contains a single integer, n, the number of rows and columns in the matrix . 
@@ -26,13 +26,13 @@ Print the absolute difference between the sums of the matrix's two diagonals as 
 # Explanation #
 The primary diagonal is:<br />
 `11`<br />
-`   5`<br />
-`     -12`<br />
-Sum across the primary diagonal: 11 + 5 - 12 = 4
+&nbsp;&nbsp;&nbsp;&nbsp;`5`<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-12`<br />
+Sum across the primary diagonal: 11 + 5 - 12 = 4 <br />
 The secondary diagonal is:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`4`<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`5`<br />
 `10`<br />
-Sum across the secondary diagonal: 4 + 5 + 10 = 19 
-Difference: |4 - 19| = 15
+Sum across the secondary diagonal: 4 + 5 + 10 = 19 <br />
+Difference: |4 - 19| = 15<br />
 Note: |x| is the absolute value of x
